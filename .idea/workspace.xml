@@ -1,59 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19e86593-8571-4617-8be2-8ffd80b71915" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="19e86593-8571-4617-8be2-8ffd80b71915" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/1_2d_arr_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/2_space_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/3_reverse_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/4_rebuild_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/5_stack2queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/6_min_in_rotate_arr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2o/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2o/fibonacci.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="97754545">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="30" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="30" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/s2o/fibonacci.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <marker date="1581001080372" expanded="true" signature="227:236" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,62 +27,143 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/s2o/fibonacci.py" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1ZP5M3Hy5GyGai8GyETYPWP5dCt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="293" />
-    <option name="y" value="84" />
-    <option name="width" value="1390" />
-    <option name="height" value="996" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="acmcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tetris-DQN" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Python.6_min_in_rotate_arr">
+    <configuration name="1_2d_arr_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="acmcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s2o" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/1_2d_arr_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_space_sub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="acmcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s2o" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/2_space_sub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_reverse_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="acmcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s2o" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/3_reverse_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_rebuild_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="acmcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s2o" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/4_rebuild_binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_min_in_rotate_arr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="acmcoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/s2o" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/6_min_in_rotate_arr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Python.6_min_in_rotate_arr" />
+        <item itemvalue="Python.4_rebuild_binary_tree" />
+        <item itemvalue="Python.3_reverse_linked_list" />
+        <item itemvalue="Python.2_space_sub" />
+        <item itemvalue="Python.1_2d_arr_search" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -132,51 +175,78 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580999519420</updated>
+      <workItem from="1584727847593" duration="128000" />
+      <workItem from="1584727986104" duration="638000" />
+      <workItem from="1584728666858" duration="1370000" />
+      <workItem from="1584786404634" duration="36000" />
+      <workItem from="1584786448781" duration="30000" />
+      <workItem from="1584787854094" duration="38000" />
+      <workItem from="1584803501155" duration="34374000" />
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="28" width="2560" height="1412" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498008" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state width="686" height="608" key="DebuggerActiveHint" timestamp="1584810623135">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="686" height="608" key="DebuggerActiveHint/0.28.2560.1412@0.28.2560.1412" timestamp="1584810623135" />
+    <state x="1063" y="492" width="424" height="480" key="FileChooserDialogImpl" timestamp="1584787889575">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state x="1063" y="492" width="424" height="480" key="FileChooserDialogImpl/0.28.2560.1412@0.28.2560.1412" timestamp="1584787889575" />
+    <state width="2506" height="394" key="GridCell.Tab.0.bottom" timestamp="1584890841431">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="394" key="GridCell.Tab.0.bottom/0.28.2560.1412@0.28.2560.1412" timestamp="1584890841431" />
+    <state width="2506" height="394" key="GridCell.Tab.0.center" timestamp="1584890841430">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="394" key="GridCell.Tab.0.center/0.28.2560.1412@0.28.2560.1412" timestamp="1584890841430" />
+    <state width="2506" height="394" key="GridCell.Tab.0.left" timestamp="1584890841430">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="394" key="GridCell.Tab.0.left/0.28.2560.1412@0.28.2560.1412" timestamp="1584890841430" />
+    <state width="2506" height="394" key="GridCell.Tab.0.right" timestamp="1584890841430">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="394" key="GridCell.Tab.0.right/0.28.2560.1412@0.28.2560.1412" timestamp="1584890841430" />
+    <state width="2506" height="484" key="GridCell.Tab.1.bottom" timestamp="1584875544775">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="484" key="GridCell.Tab.1.bottom/0.28.2560.1412@0.28.2560.1412" timestamp="1584875544775" />
+    <state width="2506" height="484" key="GridCell.Tab.1.center" timestamp="1584875544774">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="484" key="GridCell.Tab.1.center/0.28.2560.1412@0.28.2560.1412" timestamp="1584875544774" />
+    <state width="2506" height="484" key="GridCell.Tab.1.left" timestamp="1584875544774">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="484" key="GridCell.Tab.1.left/0.28.2560.1412@0.28.2560.1412" timestamp="1584875544774" />
+    <state width="2506" height="484" key="GridCell.Tab.1.right" timestamp="1584875544774">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state width="2506" height="484" key="GridCell.Tab.1.right/0.28.2560.1412@0.28.2560.1412" timestamp="1584875544774" />
+    <state x="735" y="296" key="SettingsEditor" timestamp="1584805108025">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state x="735" y="296" key="SettingsEditor/0.28.2560.1412@0.28.2560.1412" timestamp="1584805108025" />
+    <state x="934" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1584787853910">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state x="934" y="561" key="com.intellij.ide.util.TipDialog/0.28.2560.1412@0.28.2560.1412" timestamp="1584787853909" />
+    <state x="972" y="426" width="606" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584812996419">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state x="972" y="426" width="606" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.2560.1412@0.28.2560.1412" timestamp="1584812996419" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/s2o/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1581001080372" expanded="true" signature="227:236" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/acmcoder$2d_arr_search.coverage" NAME="2d_arr_search Coverage Results" MODIFIED="1584811580236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$4_rebuild_binary_tree.coverage" NAME="4_rebuild_binary_tree Coverage Results" MODIFIED="1584883687017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$3_reverse_list.coverage" NAME="3_reverse_linked_list Coverage Results" MODIFIED="1584874838797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$6_min_in_rotate_arr.coverage" NAME="6_min_in_rotate_arr Coverage Results" MODIFIED="1584890841420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$2_space_sub.coverage" NAME="2_space_sub Coverage Results" MODIFIED="1584813000891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
   </component>
 </project>
