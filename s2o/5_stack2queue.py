@@ -13,7 +13,7 @@ class Solution:
         self.stack1.append(node)
 
     def pop(self):
-        if not self.stack2:
+        if not self.stack2:  # 栈为空时压栈，否则依次出栈直至空
             while self.stack1:
                 self.stack2.append(self.stack1.pop())
         return self.stack2.pop()
