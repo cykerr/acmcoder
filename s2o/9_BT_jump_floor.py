@@ -15,5 +15,4 @@ class Solution:
     def jumpFloorII(self, number):
         return 1 << (number - 1)  # 1<<0还是1, 1<<1是2
 
-
 print(Solution().jumpFloorII(1))

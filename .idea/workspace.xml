@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19e86593-8571-4617-8be2-8ffd80b71915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/real/1_the_nth_root_of_x.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real/2_whether_a_digraph_has_rings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s2o/8_jump_floor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s2o/9_BT_jump_floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/10_rectangle_cover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/11_one_in_binary_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/12_num_of_pow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/13_order_arr_let_odd_before_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/14_find_tail_kth_from_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s2o/15_reverse_linked_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2o/5_stack2queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2o/5_stack2queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2o/6_min_in_rotate_arr.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2o/6_min_in_rotate_arr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s2o/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2o/7_fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2o/3_reverse_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2o/3_linked_list_reverse_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2o/9_BT_jump_floor.py" beforeDir="false" afterPath="$PROJECT_DIR$/s2o/9_BT_jump_floor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tetris-DQN" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.9_BT_jump_floor">
-    <configuration name="4_rebuild_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.14_find_tail_kth_from_linked_list">
+    <configuration name="11_one_in_binary_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="acmcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +58,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/4_rebuild_binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/11_one_in_binary_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_min_in_rotate_arr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12_num_of_pow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="acmcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +80,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/6_min_in_rotate_arr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/12_num_of_pow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_order_arr_let_odd_before_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="acmcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/7_fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/13_order_arr_let_odd_before_even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_jump_floor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14_find_tail_kth_from_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="acmcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +124,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/8_jump_floor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/14_find_tail_kth_from_linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9_BT_jump_floor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_linked_list_reverse_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="acmcoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/9_BT_jump_floor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s2o/3_linked_list_reverse_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9_BT_jump_floor" />
-        <item itemvalue="Python.8_jump_floor" />
-        <item itemvalue="Python.7_fibonacci" />
-        <item itemvalue="Python.6_min_in_rotate_arr" />
-        <item itemvalue="Python.4_rebuild_binary_tree" />
+        <item itemvalue="Python.14_find_tail_kth_from_linked_list" />
+        <item itemvalue="Python.3_linked_list_reverse_print" />
+        <item itemvalue="Python.13_order_arr_let_odd_before_even" />
+        <item itemvalue="Python.12_num_of_pow" />
+        <item itemvalue="Python.11_one_in_binary_num" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +181,9 @@
       <workItem from="1584786404634" duration="36000" />
       <workItem from="1584786448781" duration="30000" />
       <workItem from="1584787854094" duration="38000" />
-      <workItem from="1584803501155" duration="52780000" />
+      <workItem from="1584803501155" duration="55599000" />
+      <workItem from="1585653157704" duration="29317000" />
+      <workItem from="1585810210873" duration="44339000" />
     </task>
     <task id="LOCAL-00001" summary="3.22 6道题">
       <created>1584894709977</created>
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584894709977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3.23 3道题 + 2道平安科技笔试题">
+      <created>1584986103001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584986103001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,61 +207,62 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3.22 6道题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.22 6道题" />
+    <MESSAGE value="3.23 3道题 + 2道平安科技笔试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.23 3道题 + 2道平安科技笔试题" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1054" y="205" width="867" height="967" key="CommitChangelistDialog2" timestamp="1584894709751">
+    <state x="1054" y="205" width="867" height="967" key="CommitChangelistDialog2" timestamp="1584986102939">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state x="1054" y="205" width="867" height="967" key="CommitChangelistDialog2/0.28.2560.1412@0.28.2560.1412" timestamp="1584894709751" />
-    <state width="686" height="608" key="DebuggerActiveHint" timestamp="1584810623135">
+    <state x="1054" y="205" width="867" height="967" key="CommitChangelistDialog2/0.28.2560.1412@0.28.2560.1412" timestamp="1584986102939" />
+    <state width="805" height="608" key="DebuggerActiveHint" timestamp="1585922092740">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="686" height="608" key="DebuggerActiveHint/0.28.2560.1412@0.28.2560.1412" timestamp="1584810623135" />
+    <state width="805" height="608" key="DebuggerActiveHint/0.28.2560.1412@0.28.2560.1412" timestamp="1585922092740" />
     <state x="1063" y="492" width="424" height="480" key="FileChooserDialogImpl" timestamp="1584787889575">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
     <state x="1063" y="492" width="424" height="480" key="FileChooserDialogImpl/0.28.2560.1412@0.28.2560.1412" timestamp="1584787889575" />
-    <state width="2506" height="394" key="GridCell.Tab.0.bottom" timestamp="1584985464899">
+    <state width="1844" height="374" key="GridCell.Tab.0.bottom" timestamp="1585929125045">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="394" key="GridCell.Tab.0.bottom/0.28.2560.1412@0.28.2560.1412" timestamp="1584985464899" />
-    <state width="2506" height="394" key="GridCell.Tab.0.center" timestamp="1584985464899">
+    <state width="1844" height="374" key="GridCell.Tab.0.bottom/0.28.2560.1412@0.28.2560.1412" timestamp="1585929125045" />
+    <state width="1844" height="374" key="GridCell.Tab.0.center" timestamp="1585929125045">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="394" key="GridCell.Tab.0.center/0.28.2560.1412@0.28.2560.1412" timestamp="1584985464899" />
-    <state width="2506" height="394" key="GridCell.Tab.0.left" timestamp="1584985464899">
+    <state width="1844" height="374" key="GridCell.Tab.0.center/0.28.2560.1412@0.28.2560.1412" timestamp="1585929125045" />
+    <state width="1844" height="374" key="GridCell.Tab.0.left" timestamp="1585929125045">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="394" key="GridCell.Tab.0.left/0.28.2560.1412@0.28.2560.1412" timestamp="1584985464899" />
-    <state width="2506" height="394" key="GridCell.Tab.0.right" timestamp="1584985464899">
+    <state width="1844" height="374" key="GridCell.Tab.0.left/0.28.2560.1412@0.28.2560.1412" timestamp="1585929125045" />
+    <state width="1844" height="374" key="GridCell.Tab.0.right" timestamp="1585929125045">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="394" key="GridCell.Tab.0.right/0.28.2560.1412@0.28.2560.1412" timestamp="1584985464899" />
-    <state width="2506" height="484" key="GridCell.Tab.1.bottom" timestamp="1584968455393">
+    <state width="1844" height="374" key="GridCell.Tab.0.right/0.28.2560.1412@0.28.2560.1412" timestamp="1585929125045" />
+    <state width="1844" height="461" key="GridCell.Tab.1.bottom" timestamp="1585928266585">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="484" key="GridCell.Tab.1.bottom/0.28.2560.1412@0.28.2560.1412" timestamp="1584968455393" />
-    <state width="2506" height="484" key="GridCell.Tab.1.center" timestamp="1584968455392">
+    <state width="1844" height="461" key="GridCell.Tab.1.bottom/0.28.2560.1412@0.28.2560.1412" timestamp="1585928266585" />
+    <state width="1844" height="461" key="GridCell.Tab.1.center" timestamp="1585928266585">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="484" key="GridCell.Tab.1.center/0.28.2560.1412@0.28.2560.1412" timestamp="1584968455392" />
-    <state width="2506" height="484" key="GridCell.Tab.1.left" timestamp="1584968455392">
+    <state width="1844" height="461" key="GridCell.Tab.1.center/0.28.2560.1412@0.28.2560.1412" timestamp="1585928266585" />
+    <state width="1844" height="461" key="GridCell.Tab.1.left" timestamp="1585928266585">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="484" key="GridCell.Tab.1.left/0.28.2560.1412@0.28.2560.1412" timestamp="1584968455392" />
-    <state width="2506" height="484" key="GridCell.Tab.1.right" timestamp="1584968455392">
+    <state width="1844" height="461" key="GridCell.Tab.1.left/0.28.2560.1412@0.28.2560.1412" timestamp="1585928266585" />
+    <state width="1844" height="461" key="GridCell.Tab.1.right" timestamp="1585928266585">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state width="2506" height="484" key="GridCell.Tab.1.right/0.28.2560.1412@0.28.2560.1412" timestamp="1584968455392" />
-    <state x="735" y="296" key="SettingsEditor" timestamp="1584805108025">
+    <state width="1844" height="461" key="GridCell.Tab.1.right/0.28.2560.1412@0.28.2560.1412" timestamp="1585928266585" />
+    <state x="1258" y="410" key="SettingsEditor" timestamp="1585296854002">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state x="735" y="296" key="SettingsEditor/0.28.2560.1412@0.28.2560.1412" timestamp="1584805108025" />
-    <state x="875" y="468" width="800" height="527" key="Vcs.Push.Dialog.v2" timestamp="1584894716925">
+    <state x="1258" y="410" key="SettingsEditor/0.28.2560.1412@0.28.2560.1412" timestamp="1585296854002" />
+    <state x="875" y="468" width="800" height="527" key="Vcs.Push.Dialog.v2" timestamp="1584986111058">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
-    <state x="875" y="468" width="800" height="527" key="Vcs.Push.Dialog.v2/0.28.2560.1412@0.28.2560.1412" timestamp="1584894716925" />
+    <state x="875" y="468" width="800" height="527" key="Vcs.Push.Dialog.v2/0.28.2560.1412@0.28.2560.1412" timestamp="1584986111058" />
     <state x="934" y="561" key="com.intellij.ide.util.TipDialog" timestamp="1584787853910">
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
@@ -260,15 +271,46 @@
       <screen x="0" y="28" width="2560" height="1412" />
     </state>
     <state x="972" y="426" width="606" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.2560.1412@0.28.2560.1412" timestamp="1584812996419" />
+    <state x="1135" y="359" width="679" height="678" key="search.everywhere.popup" timestamp="1585920858172">
+      <screen x="0" y="28" width="2560" height="1412" />
+    </state>
+    <state x="1135" y="359" width="679" height="678" key="search.everywhere.popup/0.28.2560.1412@0.28.2560.1412" timestamp="1585920858172" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s2o/11_one_in_binary_num.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s2o/11_one_in_binary_num.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s2o/14_find_tail_kth_from_linked_list.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/acmcoder$2d_arr_search.coverage" NAME="2d_arr_search Coverage Results" MODIFIED="1584811580236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
     <SUITE FILE_PATH="coverage/acmcoder$9_BT_jump_floor.coverage" NAME="9_BT_jump_floor Coverage Results" MODIFIED="1584985464892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
-    <SUITE FILE_PATH="coverage/acmcoder$4_rebuild_binary_tree.coverage" NAME="4_rebuild_binary_tree Coverage Results" MODIFIED="1584883687017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
-    <SUITE FILE_PATH="coverage/acmcoder$7_fibonacci.coverage" NAME="7_fibonacci Coverage Results" MODIFIED="1584958003651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$14_find_linked_list_tail_kth.coverage" NAME="14_find_tail_kth_from_linked_list Coverage Results" MODIFIED="1585928966708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$12_num_of_pow.coverage" NAME="12_num_of_pow Coverage Results" MODIFIED="1585900286736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
     <SUITE FILE_PATH="coverage/acmcoder$3_reverse_list.coverage" NAME="3_reverse_linked_list Coverage Results" MODIFIED="1584874838797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
-    <SUITE FILE_PATH="coverage/acmcoder$6_min_in_rotate_arr.coverage" NAME="6_min_in_rotate_arr Coverage Results" MODIFIED="1584950643765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$13_order_arr_let_odd_before_even.coverage" NAME="13_order_arr_let_odd_before_even Coverage Results" MODIFIED="1585905486410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$3_reverse_linked_list.coverage" NAME="3_reverse_linked_list Coverage Results" MODIFIED="1585908118477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
     <SUITE FILE_PATH="coverage/acmcoder$2_space_sub.coverage" NAME="2_space_sub Coverage Results" MODIFIED="1584813000891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
     <SUITE FILE_PATH="coverage/acmcoder$8_jump_floor.coverage" NAME="8_jump_floor Coverage Results" MODIFIED="1584982723037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$11_one_in_binary_num.coverage" NAME="11_one_in_binary_num Coverage Results" MODIFIED="1585834630993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$4_rebuild_binary_tree.coverage" NAME="4_rebuild_binary_tree Coverage Results" MODIFIED="1584883687017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$7_fibonacci.coverage" NAME="7_fibonacci Coverage Results" MODIFIED="1584958003651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$10_rectangle_cover.coverage" NAME="10_rectangle_cover Coverage Results" MODIFIED="1585654651443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
+    <SUITE FILE_PATH="coverage/acmcoder$6_min_in_rotate_arr.coverage" NAME="6_min_in_rotate_arr Coverage Results" MODIFIED="1584950643765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/s2o" />
   </component>
 </project>

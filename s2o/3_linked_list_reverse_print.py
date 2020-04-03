@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @File  : 3_reverse_linked_list.py
+# @File  : 3_linked_list_reverse_print.py
 # @Author: cyker
 # @Date  : 3/22/20 3:18 PM
 # @Desc  : 输入一个链表，按链表从尾到头的顺序返回一个ArrayList。
